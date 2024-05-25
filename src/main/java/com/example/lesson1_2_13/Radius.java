@@ -11,6 +11,6 @@ public class Radius {
     public static void calcCircleRaduis(double area) {
         double x = Math.sqrt(area / Math.PI);
 
-        System.out.printf("R = %.3f", x);
+        System.out.println("R = %.3f" + x);
     }
 }

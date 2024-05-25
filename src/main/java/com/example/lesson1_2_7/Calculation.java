@@ -9,7 +9,6 @@ public class Calculation {
     }
 
     public static double priceCalculation(double price, int count) {
-
         return price * count;
     }
 }
