@@ -5,7 +5,7 @@ public class AgeSum {
     public static void main(String[] args) {
         byte a = 22;
         byte b = 29;
-        
+
         System.out.println(getAgeDiff(a, b));
     }
 

@@ -3,7 +3,7 @@ package com.example.lesson1_3_8;
 public class PowerOfTwo {
 
     public static void main(String[] args) {
-        int a = 16;
+        int a = -16;
 
         System.out.println(isPowerOfTwo1(a));
     }
