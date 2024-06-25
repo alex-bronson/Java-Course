@@ -4,34 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lesson_1_CORE_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lesson_1_CORE_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_2_10/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_2_13/Radius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_2_14/SqrLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_2_4/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_2_6/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_2_7/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_3_2/ExpressionChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_3_3/AgeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1_3_8/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1core/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson1core/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="2.1.6 - 2.1.8&#10;ООП">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_1_4/FactorialCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_1_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_1_4/MyNewException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/src/main/java/example/oop/lesson_2_1_9/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/src/main/java/example/oop/lesson_2_1_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +50,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects/Java/Java-Course",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Methods">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\Java-Course\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ErrorAndException.lesson_3_1_4.Main">
     <configuration name="AgeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.lesson1_3_3.AgeSum" />
       <module name="lesson-1-CORE" />
@@ -88,12 +74,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpressionChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lesson1_3_2.ExpressionChar" />
+    <configuration name="ErrorAndException.lesson_3_1_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorAndException.lesson_3_1_4.Main" />
       <module name="lesson-1-CORE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lesson1_3_2.*" />
+          <option name="PATTERN" value="ErrorAndException.lesson_3_1_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.src.main.java.example.oop.lesson_2_1_9.Main" />
+      <module name="lesson-1-CORE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.src.main.java.example.oop.lesson_2_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqrLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lesson1_2_14.SqrLong" />
-      <module name="lesson-1-CORE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.lesson1_2_14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ErrorAndException.lesson_3_1_4.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.AgeSum" />
-        <item itemvalue="Application.ExpressionChar" />
-        <item itemvalue="Application.SqrLong" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +145,17 @@
       <option name="presentableId" value="Default" />
       <updated>1716118114620</updated>
       <workItem from="1716118115823" duration="12987000" />
+      <workItem from="1717440808030" duration="6805000" />
+      <workItem from="1719334825858" duration="475000" />
     </task>
+    <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
+      <created>1717441165416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717441165416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,5 +171,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.1.6 - 2.1.8&#10;ООП" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1.6 - 2.1.8&#10;ООП" />
   </component>
 </project>
