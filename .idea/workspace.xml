@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задание 3.1.5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/BadCreditHistoryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/BankClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/BankEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/BankWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/ProblemWithLawException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задание 3.2.4">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_1_4/FactorialCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_1_4/FactorialCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/BankEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_4/BankEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <recent name="D:\Projects\Java\Java-Course\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ErrorAndException.lesson_3_2_4.Main">
+  <component name="RunManager" selected="Application.ErrorAndException.lesson_3_2_5.Main">
     <configuration name="ErrorAndException.lesson_3_1_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ErrorAndException.lesson_3_1_4.Main" />
       <module name="lesson-1-CORE" />
@@ -102,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ErrorAndException.lesson_3_2_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorAndException.lesson_3_2_5.Main" />
+      <module name="lesson-1-CORE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ErrorAndException.lesson_3_2_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.src.main.java.example.oop.lesson_2_1_9.Main" />
       <module name="lesson-1-CORE" />
@@ -115,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lesson1_2_6.Methods" />
-      <module name="lesson-1-CORE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.lesson1_2_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ErrorAndException.lesson_3_2_5.Main" />
         <item itemvalue="Application.ErrorAndException.lesson_3_2_4.Main" />
         <item itemvalue="Application.ErrorAndException.lesson_3_1_5.Main" />
         <item itemvalue="Application.ErrorAndException.lesson_3_1_4.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +143,7 @@
       <updated>1716118114620</updated>
       <workItem from="1716118115823" duration="12987000" />
       <workItem from="1717440808030" duration="6805000" />
-      <workItem from="1719334825858" duration="1708000" />
+      <workItem from="1719334825858" duration="2122000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -171,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719335563875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Задание 3.2.4">
+      <created>1719507992918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719507992918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +194,7 @@
     <MESSAGE value="2.1.6 - 2.1.8&#10;ООП" />
     <MESSAGE value="Задание 3.1.4" />
     <MESSAGE value="Задание 3.1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 3.1.5" />
+    <MESSAGE value="Задание 3.2.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 3.2.4" />
   </component>
 </project>
