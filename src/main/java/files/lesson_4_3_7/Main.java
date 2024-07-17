@@ -1,6 +1,6 @@
 package files.lesson_4_3_7;
 
-import java.io.IOException;
+
 import java.util.Scanner;
 import java.util.Locale;
 
