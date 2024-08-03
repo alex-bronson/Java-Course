@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        byte[] input = {1, 2, 4, 10};
+        byte[] input = { 10, 3, 50, 7, 20, -128, -127 };
         ByteArrayOutputStream outPut = new ByteArrayOutputStream();
         try (InputStream inputStream = new ByteArrayInputStream(input)){
             InputAndOutput.print(inputStream, outPut);
