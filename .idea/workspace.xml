@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/CheckConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/RobotConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/RobotConnectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/RobotConnectionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/RobotConnectionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorAndException/lesson_3_2_6/RobotController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/AbstractSendable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/IllegalPackageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Inspector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/MailMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/MailPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/MailService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/RealMailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Sendable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Spy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/StolenPackageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/UntrustworthyMailWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_1_11/Box.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/files/lesson_4_2_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_2_6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/files/lesson_4_3_6/ReadInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_3_6/ReadInputStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -195,7 +172,7 @@
       <workItem from="1720777048261" duration="13260000" />
       <workItem from="1721411072782" duration="296000" />
       <workItem from="1721413035011" duration="783000" />
-      <workItem from="1722693109870" duration="1643000" />
+      <workItem from="1722693109870" duration="2974000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -274,7 +251,28 @@
       <option name="project" value="LOCAL" />
       <updated>1722693994303</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1722694864607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722694864607</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update">
+      <created>1722694940489</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722694940489</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update">
+      <created>1722695017318</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722695017318</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
