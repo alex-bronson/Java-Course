@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         ByteArrayInputStream inputStream = new ByteArrayInputStream(new byte[]{48, 49, 50, 51});
         try {
-            ReadInputStream.readAsString(inputStream, Charset.forName("ASCII"));
+            System.out.println(ReadInputStream.readAsString(inputStream, Charset.forName("ASCII")));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
