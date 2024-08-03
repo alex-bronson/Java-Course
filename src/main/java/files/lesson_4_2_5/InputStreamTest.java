@@ -6,10 +6,11 @@ import java.io.InputStream;
 public class InputStreamTest {
     public static int sumOfStream(InputStream inputStream) throws IOException {
         int sum = 0;
-        int counter;
+        int byteRead;
 
-        while ((counter = inputStream.read()) != -1) {
-            sum += counter;
+        while ((byteRead = inputStream.read()) != -1) {
+            byteRead = (byteRead <= 127) ? byteRead : byteRead - 256;
+            sum += byteRead;
         }
         return sum;
     }
