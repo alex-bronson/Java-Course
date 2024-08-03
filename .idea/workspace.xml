@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Update">
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задание 5.1.11-12">
       <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_1_11/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_1_13/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +172,7 @@
       <workItem from="1720777048261" duration="13260000" />
       <workItem from="1721411072782" duration="296000" />
       <workItem from="1721413035011" duration="783000" />
-      <workItem from="1722693109870" duration="2974000" />
+      <workItem from="1722693109870" duration="4188000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722695017318</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Задание 5.1.11-12">
+      <created>1722724190087</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722724190087</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +308,7 @@
     <MESSAGE value="Задание 4.3.7 (2)" />
     <MESSAGE value="Задание 4.3.8" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Задание 5.1.11-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 5.1.11-12" />
   </component>
 </project>
