@@ -5,21 +5,19 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 public class Market {
     public static Map<String, Integer> getSalesMap(Reader reader) throws IOException {
         Map<String, Integer> map = new HashMap<>();
-        BufferedReader bufferedReader = new BufferedReader(reader);
-        String line;
+        try (Scanner scanner = new Scanner(reader)) {
+            while (scanner.hasNextLine()) {
+                String name = scanner.next();
+                int sales = scanner.nextInt();
 
-        while ((line = bufferedReader.readLine()) != null) {
-            String[] parts = line.split("\\s+");
-            String name = parts[0];
-            int sales = Integer.parseInt(parts[1]);
-
-            map.put(name, map.getOrDefault(name, 0) + sales);
+                map.put(name, map.getOrDefault(name, 0) + sales);
+            }
         }
-
         return map;
     }
 }

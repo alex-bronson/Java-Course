@@ -8,6 +8,7 @@ import java.util.LinkedList;
 public class Main {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>();
+
         try (BufferedReader str = new BufferedReader(new InputStreamReader(System.in))) {
             String[] line = str.readLine().split(" ");
             for (int i = 0; i < line.length; i++) {
@@ -18,6 +19,7 @@ public class Main {
         } catch (IOException e) {
             System.err.println(e.getMessage());
         }
+
         System.out.println(list);
     }
 }

@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задачи 10.08">
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задача 5.2.15">
       <change afterPath="$PROJECT_DIR$/src/main/java/files/lesson_4_4_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/UnaryOperator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_1_14/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_14/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_14/Market.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics_collections/lesson_5_2_15/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -65,13 +70,13 @@
       <recent name="D:\Projects\Java\Java-Course\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.generics_collections.lesson_5_2_15.Main">
-    <configuration name="files.lesson_4_2_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.lesson_4_2_6.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_8.Main" />
       <module name="lesson-1-CORE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.lesson_4_2_6.*" />
+          <option name="PATTERN" value="function_interface.lesson_6_1_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_15.Main" />
-        <item itemvalue="Application.generics_collections.lesson_5_2_13.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_14.Main" />
+        <item itemvalue="Application.generics_collections.lesson_5_2_13.Main" />
         <item itemvalue="Application.files.lesson_4_3_6.Main" />
-        <item itemvalue="Application.files.lesson_4_2_6.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +178,9 @@
       <workItem from="1720777048261" duration="13260000" />
       <workItem from="1721411072782" duration="296000" />
       <workItem from="1721413035011" duration="783000" />
-      <workItem from="1722693109870" duration="8897000" />
+      <workItem from="1722693109870" duration="11477000" />
+      <workItem from="1723972289127" duration="404000" />
+      <workItem from="1724700703521" duration="692000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -301,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723287256487</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Задача 5.2.15">
+      <created>1723287818523</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723287818523</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +347,7 @@
     <MESSAGE value="Задание 5.1.11-12" />
     <MESSAGE value="Задание 5.1.13" />
     <MESSAGE value="Задачи 10.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачи 10.08" />
+    <MESSAGE value="Задача 5.2.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5.2.15" />
   </component>
 </project>
