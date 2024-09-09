@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задание 6.1.8">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Исправления 6.1.8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_10/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/UnaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +63,7 @@
       <recent name="D:\Projects\Java\Java-Course\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.function_interface.lesson_6_1_10.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_8.Main" />
       <module name="lesson-1-CORE" />
@@ -80,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function_interface.lesson_6_1_9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_9.Main" />
+    <configuration name="function_interface.lesson_6_1_10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_10.Main" />
       <module name="lesson-1-CORE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function_interface.lesson_6_1_9.*" />
+          <option name="PATTERN" value="function_interface.lesson_6_1_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics_collections.lesson_5_2_13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics_collections.lesson_5_2_13.Main" />
+    <configuration name="function_interface.lesson_6_1_9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_9.Main" />
       <module name="lesson-1-CORE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics_collections.lesson_5_2_13.*" />
+          <option name="PATTERN" value="function_interface.lesson_6_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.function_interface.lesson_6_1_10.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.function_interface.lesson_6_1_9.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_15.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_14.Main" />
-        <item itemvalue="Application.generics_collections.lesson_5_2_13.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +175,7 @@
       <workItem from="1723972289127" duration="404000" />
       <workItem from="1724700703521" duration="964000" />
       <workItem from="1725869209597" duration="347000" />
-      <workItem from="1725869571229" duration="69000" />
+      <workItem from="1725869571229" duration="2069000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -327,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724701454104</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Исправления 6.1.8">
+      <created>1725869848401</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725869848401</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +365,7 @@
     <MESSAGE value="Задачи 10.08" />
     <MESSAGE value="Задача 5.2.15" />
     <MESSAGE value="Задание 6.1.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 6.1.8" />
+    <MESSAGE value="Исправления 6.1.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправления 6.1.8" />
   </component>
 </project>
