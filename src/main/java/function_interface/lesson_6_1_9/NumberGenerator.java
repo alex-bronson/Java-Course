@@ -1,4 +1,4 @@
-﻿package function_interface.lesson_6_1_9;
+package function_interface.lesson_6_1_9;
 
 @FunctionalInterface
 public interface NumberGenerator<T extends Number> {

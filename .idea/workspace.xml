@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задание 6.1.8">
-      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_9/NumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_8/UnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_1_9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="files.lesson_4_3_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.lesson_4_3_6.Main" />
+    <configuration name="function_interface.lesson_6_1_9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_9.Main" />
       <module name="lesson-1-CORE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.lesson_4_3_6.*" />
+          <option name="PATTERN" value="function_interface.lesson_6_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,10 +135,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.function_interface.lesson_6_1_9.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_15.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_14.Main" />
         <item itemvalue="Application.generics_collections.lesson_5_2_13.Main" />
-        <item itemvalue="Application.files.lesson_4_3_6.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +177,8 @@
       <workItem from="1722693109870" duration="11477000" />
       <workItem from="1723972289127" duration="404000" />
       <workItem from="1724700703521" duration="964000" />
+      <workItem from="1725869209597" duration="347000" />
+      <workItem from="1725869571229" duration="69000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>

@@ -1,8 +1,16 @@
-﻿package function_interface.lesson_6_1_9;
+package function_interface.lesson_6_1_9;
+
+import java.util.function.UnaryOperator;
 
 public class Main {
+
     public static void main(String[] args) {
-        NumberGenerator<Number> generator = (NumberGenerator<Number>) NumberGenerator.getGenerator();
-        System.out.println(generator.cond(-4));
+        UnaryOperator<Integer> square = sqrt();
+        System.out.println(square.apply(5));
+    }
+
+    public static UnaryOperator<Integer> sqrt() {
+        return x -> x * x;
     }
 }
+
