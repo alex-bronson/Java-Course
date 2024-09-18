@@ -1,8 +1,11 @@
 package function_interface.lesson_6_2_12;
 
+
 import java.util.Comparator;
-import java.util.stream.Stream;
+import java.util.List;
 import java.util.function.BiConsumer;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) {
@@ -20,21 +23,14 @@ public class Main {
             Stream<? extends T> stream,
             Comparator<? super T> order,
             BiConsumer<? super T, ? super T> minMaxConsumer) {
-        T[] minMax = (T[]) new Object[2];
+        List<? extends T> list = stream.collect(Collectors.toList());
 
-        stream.forEach(element -> {
-            if (minMax[0] == null || order.compare(element, minMax[0]) < 0) {
-                minMax[0] = element;
-            }
-            if (minMax[1] == null || order.compare(element, minMax[1]) > 0) {
-                minMax[1] = element;
-            }
-        });
-
-        if (minMax[0] == null && minMax[1] == null) {
-            minMaxConsumer.accept(null, null);
+        if (!list.isEmpty()) {
+            T min = list.stream().min(order).get();
+            T max = list.stream().max(order).get();
+            minMaxConsumer.accept(min, max);
         } else {
-            minMaxConsumer.accept(minMax[0], minMax[1]);
+            minMaxConsumer.accept(null, null);
         }
     }
 }
