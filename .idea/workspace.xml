@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задание 6.2.15">
-      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_13/Main.java" afterDir="false" />
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задача и исправление">
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_12/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +67,13 @@
       <recent name="D:\Projects\Java\Java-Course\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.function_interface.lesson_6_2_12.Main">
-    <configuration name="function_interface.lesson_6_1_10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_1_10.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function_interface.lesson_6_2_14.Main" />
       <module name="lesson-1-CORE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function_interface.lesson_6_1_10.*" />
+          <option name="PATTERN" value="function_interface.lesson_6_2_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.function_interface.lesson_6_2_12.Main" />
         <item itemvalue="Application.function_interface.lesson_6_2_13.Main" />
         <item itemvalue="Application.function_interface.lesson_6_2_15.Main" />
         <item itemvalue="Application.function_interface.lesson_6_2_11.Main" />
-        <item itemvalue="Application.function_interface.lesson_6_1_10.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +180,7 @@
       <workItem from="1724700703521" duration="964000" />
       <workItem from="1725869209597" duration="347000" />
       <workItem from="1725869571229" duration="11036000" />
-      <workItem from="1726594442253" duration="1740000" />
+      <workItem from="1726594442253" duration="4876000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -361,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725985566102</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Задача и исправление">
+      <created>1726686512805</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726686512805</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +410,7 @@
     <MESSAGE value="Задание 6.2.12" />
     <MESSAGE value="Задание 6.2.11" />
     <MESSAGE value="Задание 6.2.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 6.2.15" />
+    <MESSAGE value="Задача и исправление" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача и исправление" />
   </component>
 </project>
