@@ -10,8 +10,4 @@ public class MailService<T> implements Consumer<Mail<T>> {
     public void accept(Mail<T> mail) {
         mailBox.computeIfAbsent(mail.getTo(), k -> new ArrayList<>()).add(mail.getContent());
     }
-
-    public Map<String, List<T>> getMailBox() {
-        return Collections.unmodifiableMap(mailBox);
-    }
 }
