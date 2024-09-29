@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="Задача и исправление">
+    <list default="true" id="6415770c-b988-4741-a6c6-5dcb86c49fa0" name="Changes" comment="исправление">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function_interface/lesson_6_2_14/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +178,7 @@
       <workItem from="1725869209597" duration="347000" />
       <workItem from="1725869571229" duration="11036000" />
       <workItem from="1726594442253" duration="5802000" />
-      <workItem from="1727617768217" duration="25000" />
+      <workItem from="1727617768217" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="2.1.6 - 2.1.8&#10;ООП">
       <created>1717441165416</created>
@@ -375,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727197247358</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="исправление">
+      <created>1727617812080</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727617812080</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,6 +423,7 @@
     <MESSAGE value="Задание 6.2.11" />
     <MESSAGE value="Задание 6.2.15" />
     <MESSAGE value="Задача и исправление" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача и исправление" />
+    <MESSAGE value="исправление" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправление" />
   </component>
 </project>
